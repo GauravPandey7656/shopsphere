@@ -4,6 +4,10 @@ A modern e-commerce web application built with React, React Router, Tailwind CSS
 
 ShopSphere provides a complete shopping experience with product browsing, authentication, cart management, wishlist functionality, checkout, order history, and product reviews.
 
+## Live Demo
+
+🚀 **Live Application:** https://shopsphere-three-eta.vercel.app/
+
 ## Features
 
 - User signup and login
