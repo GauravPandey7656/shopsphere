@@ -43,6 +43,28 @@ ShopSphere provides a complete shopping experience with product browsing, authen
 - DummyJSON Products API
 - Browser localStorage for application state persistence
 
+## Screenshots
+
+### Home
+
+![ShopSphere Home](./public/screenshots/home.png)
+
+### Products
+
+![ShopSphere Products](./public/screenshots/products.png)
+
+### Product Details
+
+![ShopSphere Product Details](./public/screenshots/product-details.png)
+
+### Cart
+
+![ShopSphere Cart](./public/screenshots/cart.png)
+
+### Orders
+
+![ShopSphere Orders](./public/screenshots/orders.png)
+
 ## Application Architecture
 
 ShopSphere follows a component-based React architecture.
